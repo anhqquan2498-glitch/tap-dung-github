@@ -1,1 +1,1 @@
-Just a students learning C++
+Just a student learning C++
